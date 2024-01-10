@@ -5,7 +5,7 @@
         <initValue>'https://www.w3schools.com'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
-    <defaultProfile>True</defaultProfile>
+    <defaultProfile>true</defaultProfile>
     <description></description>
     <name>W3School</name>
     <tag></tag>
